@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+
+JFK in 1961: "Landing a man on the Moon and returning him safely to the Earth"
 Use the left arrow to go back!
